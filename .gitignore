@@ -18,3 +18,15 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+# Recovered browser edition
+*.apk
+*.keystore
+*.jks
+*.p12
+.env
+.env.*
+/playtime.ttf
+/img/bg.png
+/EdgeJumper-recovered/
+/cordova*
